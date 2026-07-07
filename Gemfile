@@ -26,7 +26,7 @@ gem "rails-controller-testing", "1.0.5"
 gem "minitest", "5.18.0"
 gem "minitest-reporters", "1.6.0"
 gem "guard", "2.18.0"
-gem "guard-minitest", "2.4.6"
+gem "guard-minitest", "3.0.0"
 end
 
 # Windows ではタイムゾーン情報用のtzinfo-data gem を含める必要があります
