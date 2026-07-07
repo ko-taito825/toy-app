@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby "3.3.11"
-gem "rails", "~> 7.2"
+gem "rails", "~> 8.1"
 gem "sprockets-rails", "3.4.2"
 gem "importmap-rails", "1.1.5"
 gem "turbo-rails", "1.4.0"
