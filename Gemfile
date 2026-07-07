@@ -19,7 +19,7 @@ gem "solargraph", "0.50.0"
 gem "repl_type_completor", "0.1.2"
 end
 group :test do
-gem "capybara", "3.38.0"
+gem "capybara", "3.40.0"
 gem "selenium-webdriver", "4.8.3"
 gem "webdrivers", "5.2.0"
 gem "rails-controller-testing", "1.0.5"
